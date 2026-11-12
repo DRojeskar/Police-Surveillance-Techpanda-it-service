@@ -1,0 +1,12 @@
+node_modules/
+.env
+**/.env
+venv/
+__pycache__/
+temp_video.mp4
+detected_frames/
+results/
+uploads/
+public/files/
+dist/
+*.log
